@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Trabajo_Final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Trabajo_Final_jar</output-path>
+    <root id="archive" name="Trabajo_Final.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
